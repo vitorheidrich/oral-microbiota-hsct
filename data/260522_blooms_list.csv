@@ -1,0 +1,82 @@
+patient,time,site,taxa,day
+#1,E,BF,Enterococcus,2016-10-17
+#1,E,FCG,Enterococcus,2016-10-17
+#1,E30,BF,Acetobacter,2016-11-17
+#1,E30,FCG,Acetobacter,2016-11-17
+#2,E,BF,Stenotrophomonas,2016-08-05
+#2,E,FCG,Mycoplasma,2016-08-05
+#2,E,FCG,Stenotrophomonas,2016-08-05
+#2,E,MO,Stenotrophomonas,2016-08-05
+#5,A,BF,Johnsonella,2016-11-11
+#6,E,FCG,Lactobacillus,2016-06-08
+#6,E,BF,Lactobacillus,2016-06-08
+#6,E,BF,Staphylococcus,2016-06-08
+#6,E30,MO,Lactobacillus,2016-07-07
+#7,E,BF,Mycoplasma,2016-12-01
+#7,E,MO,Mycoplasma,2016-12-01
+#8,E,FCG,Prevotella 7,2017-07-11
+#8,E,BF,Prevotella 7,2017-07-11
+#8,E30,BF,Staphylococcus,2017-08-25
+#8,E30,BF,Enterobacter,2017-08-25
+#8,E30,FCG,Enterobacter,2017-08-25
+#8,E30,FCG,Staphylococcus,2017-08-25
+#9,A,MO,Prevotella,2016-08-16
+#9,E,MO,Lautropia,2016-09-02
+#9,E,BF,Lautropia,2016-09-02
+#10,A,MO,Granulicatella,2016-06-02
+#12,E,BF,Staphylococcus,2017-03-02
+#12,E75,FCG,Veillonella,2017-05-25
+#13,E,BF,Rothia,2016-05-03
+#13,E30,BF,Lautropia,2016-05-26
+#13,E30,BF,Abiotrophia,2016-05-26
+#13,E30,FCG,Abiotrophia,2016-05-26
+#13,E30,MO,Abiotrophia,2016-05-26
+#14,A,BF,Enterococcus,2017-07-11
+#14,A,FCG,Enterococcus,2017-07-11
+#14,E,MO,Anoxybacillus,2017-07-31
+#14,E,FCG,Rothia,2017-07-31
+#14,E,BF,Mycoplasma,2017-07-31
+#14,E,FCG,Mycoplasma,2017-07-31
+#15,E,FCG,Staphylococcus,2016-12-17
+#15,E,BF,Rothia,2016-12-17
+#16,E,BF,Enterococcus,2017-03-20
+#16,E,BF,Lactobacillus,2017-03-20
+#16,E,MO,Enterococcus,2017-03-20
+#17,A,BF,Prevotella,2016-11-14
+#17,A,MO,Prevotella,2016-11-14
+#17,E,FCG,Prevotella 7,2016-11-24
+#17,E30,BF,Lactobacillus,2016-12-15
+#17,E30,MO,Prevotella 7,2016-12-15
+#17,E75,FCG,Haemophilus,2017-01-23
+#18,E,BF,Prevotella 7,2017-12-27
+#19,A,FCG,Staphylococcus,2016-09-20
+#19,A,FCG,Leuconostoc,2016-09-20
+#19,E,BF,Leuconostoc,2016-09-24
+#20,E,BF,Enterococcus,2016-10-19
+#22,E,BF,Rothia,2017-03-26
+#23,E,MO,Granulicatella,2016-05-16
+#23,E,BF,Granulicatella,2016-05-16
+#23,E30,MO,Prevotella 7,2016-06-16
+#24,E75,BF,Streptococcus,2017-06-19
+#25,A,MO,Veillonella,2016-07-14
+#25,E,FCG,Stenotrophomonas,2016-07-26
+#25,E,MO,Streptococcus,2016-07-26
+#25,E30,MO,Porphyromonas,2016-08-26
+#26,E75,FCG,Lactobacillus,2016-08-10
+#26,E75,FCG,Streptococcus,2016-08-10
+#27,E,BF,Lactobacillus,2017-06-21
+#27,E,FCG,Lactobacillus,2017-06-21
+#27,E,MO,Lactobacillus,2017-06-21
+#27,E30,FCG,Staphylococcus,2017-07-20
+#27,E30,MO,Staphylococcus,2017-07-20
+#28,E,BF,Enterococcus,2017-10-08
+#28,E,FCG,Lactobacillus,2017-10-08
+#28,E,BF,Lactobacillus,2017-10-08
+#28,E30,BF,Streptococcus,2017-10-30
+#28,E30,MO,Streptococcus,2017-10-30
+#29,E,MO,Selenomonas 3,2017-07-17
+#30,A,BF,Enterococcus,2016-12-14
+#30,A,MO,Prevotella,2016-12-14
+#31,E,BF,Enterococcus,2017-08-02
+#31,E30,BF,Lactobacillus,2017-08-31
+#31,E30,MO,Dechloromonas,2017-08-31
