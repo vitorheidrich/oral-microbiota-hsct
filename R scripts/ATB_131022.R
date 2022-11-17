@@ -75,10 +75,10 @@ daatb<-subset(daatb,beg.inf<=100)
 daatb<-subset(daatb,name!='levo'&name!='bact') #remover atbs da profilaxia
 
 #gerar vetor com nomes completos dos atbs e df com as classes
-atb_names<-c("clav"="amoxicilin clavunalate", "tazo"="piperacilin tazobactam", "amox"="amoxicilin", "cefe"="cefepime", "mero"="meropenem", 
+atb_names<-c("clav"="amoxicillin clavulanate", "tazo"="piperacillin tazobactam", "amox"="amoxicillin", "cefe"="cefepime", "mero"="meropenem", 
              "metr"="metronidazole", "ceft"="ceftriaxone", "vanc"="vancomycin", "teic"="teicoplanin", "cipr"="ciprofloxacin", 
-             "levo"="levofloxacin", "doxi"="doxycycline", "ampi"="ampicilin", "clar"="clarithromycin", "bact"="sulfamethoxazole trimethoprim", 
-             "erta"="ertapenem", "poli"="polymyxin b", "dapt"="daptomycin","line"="linezolid", "tige" ="tigecycline", "amic"="amikacin")
+             "levo"="levofloxacin", "doxi"="doxycycline", "ampi"="ampicillin", "clar"="clarithromycin", "bact"="sulfamethoxazole trimethoprim", 
+             "erta"="ertapenem", "poli"="polymixin b", "dapt"="daptomycin","line"="linezolid", "tige" ="tigecycline", "amic"="amikacin")
 atb_classes<-data.frame(name = c("tazo","cefe","mero","bact","clav","ceft","cipr","vanc","levo","line","poli","amox","teic","tige",
                                  "clar","doxi","metr","ampi","erta","dapt",'amic'), 
                         class = c("penicillins","cephalosporins","carbapenems","sulfonamides","penicillins","cephalosporins","quinolones",
