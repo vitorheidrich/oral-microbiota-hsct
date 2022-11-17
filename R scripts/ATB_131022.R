@@ -78,11 +78,11 @@ daatb<-subset(daatb,name!='levo'&name!='bact') #remover atbs da profilaxia
 atb_names<-c("clav"="amoxicillin clavulanate", "tazo"="piperacillin tazobactam", "amox"="amoxicillin", "cefe"="cefepime", "mero"="meropenem", 
              "metr"="metronidazole", "ceft"="ceftriaxone", "vanc"="vancomycin", "teic"="teicoplanin", "cipr"="ciprofloxacin", 
              "levo"="levofloxacin", "doxi"="doxycycline", "ampi"="ampicillin", "clar"="clarithromycin", "bact"="sulfamethoxazole trimethoprim", 
-             "erta"="ertapenem", "poli"="polymixin b", "dapt"="daptomycin","line"="linezolid", "tige" ="tigecycline", "amic"="amikacin")
+             "erta"="ertapenem", "poli"="polymyxin b", "dapt"="daptomycin","line"="linezolid", "tige" ="tigecycline", "amic"="amikacin")
 atb_classes<-data.frame(name = c("tazo","cefe","mero","bact","clav","ceft","cipr","vanc","levo","line","poli","amox","teic","tige",
                                  "clar","doxi","metr","ampi","erta","dapt",'amic'), 
                         class = c("penicillins","cephalosporins","carbapenems","sulfonamides","penicillins","cephalosporins","quinolones",
-                                  "glycopeptides","quinolones","oxazolidinones","polymixins","glycylcyclines","glycopeptides","glycylcyclines",
+                                  "glycopeptides","quinolones","oxazolidinones","polymyxins","glycylcyclines","glycopeptides","glycylcyclines",
                                   "macrolides","tetracyclines","nitroimidazoles","penicillins","carbapenems","cyclic lipopeptides","aminoglycosides"))
 daatb <- merge(daatb,atb_classes)
 daatb_restrito<-subset(daatb,end.inf>=dacolP.inf&beg.inf<=dacolE30.inf)
