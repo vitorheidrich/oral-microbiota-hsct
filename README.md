@@ -1,4 +1,4 @@
-Here we provide files associated with [our paper](https://doi.org/xxx):
+Here we provide files associated with [our paper](https://doi.org/10.1101/2022.11.18.22282520):
 
 1. Jupyter notebook containing the bioinformatics pipeline used to process sequencing data* (`oral-microbiota-hsct_script.ipynb`)
 2. Several R scripts used for plotting and statistics (`R scripts` dir)
@@ -16,4 +16,4 @@ Here we provide files associated with [our paper](https://doi.org/xxx):
 
 If you use this data in a publication, please cite as:
 
-Heidrich, V., et al. (2022) XXXXXXX
+Heidrich, V., et al. (2022) Longitudinal analysis at three oral sites links oral microbiota to clinical outcomes in allogeneic hematopoietic stem-cell transplant. medRxiv 2022.11.18.22282520.
